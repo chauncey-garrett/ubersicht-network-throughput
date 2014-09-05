@@ -13,7 +13,7 @@ style: """
   bottom: 128px
   left: 278px
   color rgba(#fff,.7)
-  font-family: Avenir
+  font-family: Avenir Next, Helvetica Neue
 
   td
     border-radius 5px
