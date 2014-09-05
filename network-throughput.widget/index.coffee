@@ -24,7 +24,7 @@ style: """
     height: 55px
     overflow: hidden
     text-shadow: 0 0 1px rgba(#000, 0.5)
-  
+
   .wrapper
     padding: 4px 6px 4px 6px
     position: relative
@@ -36,10 +36,10 @@ style: """
     font-size: 24px
     font-weight: 700
     color rgba(#aaa,.7)
-  
+
   .col1
     background: rgba(88, 189, 60, 0.2)
-  
+
   .col2
     background: rgba(60, 160, 189, 0.2)
 
